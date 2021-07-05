@@ -3,7 +3,7 @@ public class CharArrayToString
 public static void main(String args[])  
 {  
  
-char[] chars = {'T', 'o', 'm', ' ', 'C', 'r', 'u', 'i', 's', 'e'};  
+char[] chars = {'H', 'I', 'm', ' ', 'A', 'r', 'B', 'I', 'N', 'U'};  
   
 String str = new String();  
 
