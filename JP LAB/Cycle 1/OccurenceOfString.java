@@ -1,5 +1,4 @@
 class OccurenceOfString{  
-
    static void countEachChar(String str) 
    { 
 	int counter[] = new int[256]; 
@@ -21,7 +20,7 @@ class OccurenceOfString{
    } 
    public static void main(String[] args) 
    {  
-	String str = "HIMA"; 
+	String str = "HIMA BINDU"; 
 	countEachChar(str); 
    } 
 }
