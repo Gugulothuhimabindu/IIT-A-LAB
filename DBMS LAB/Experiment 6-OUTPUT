@@ -1,0 +1,43 @@
+customer_id	name
+1	MANJU
+2	BINDU
+3	KARU
+4	SRIYA
+id	customer_id	day
+1	1	2021-07-30
+2	2	2021-02-17
+3	2	2021-05-26
+4	1	2021-06-22
+5	3	2021-03-19
+customer_id
+4
+customer_id
+1
+2
+3
+customer_id
+1
+2
+3
+customer_id
+1
+2
+3
+customer_id
+4
+customer_id
+3
+4
+id	Customer_name
+3	KARU
+customer_id	name
+1	MANJU
+2	BINDU
+customer_id
+1
+2
+3
+customer_id
+1
+2
+3
